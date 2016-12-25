@@ -1,1 +1,1 @@
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://gitlab.com/ZerNico/Deezloader)
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ZerNico/Deezloader)
